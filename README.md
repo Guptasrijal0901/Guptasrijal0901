@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Development project**
 
-- 🤝 I’m looking for help with **Web development project and DSA**
+- 🤝 I’m looking for help with **Web development and DSA project**
 
 - 📫 How to reach me **guptasrijal@gmail.com**
 
