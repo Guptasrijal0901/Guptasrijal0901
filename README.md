@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Srijal Gupta—an individual fueled by passion and driven by responsibility when it comes to web development. I embrace challenges as opportunities for grow.
-
+I am Srijal Gupta an individual fueled by passion and driven by responsibility in web development. I embrace challenges as opportunities for growth.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ms.srijal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/srijal-gupta-93840b292/](https://www.linkedin.com/in/srijal-gupta-93840b292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By7iOQF7GRAumSQ%2B9M3wc3w%3D%3D)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]([https://x.com/srijal0901](https://www.linkedin.com/in/srijal-gupta-93840b292?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3By7iOQF7GRAumSQ%2B9M3wc3w%3D%3D)) 
