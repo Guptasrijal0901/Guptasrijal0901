@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Srijal Gupta—an individual fueled by passion and driven by responsibility when it comes to web development. I embrace challenges as opportunities for grow. <br>Currently, I am actively engaged in enhancing my proficiency in Java programming and Data structures & Algorithms. <br>Simultaneously, I am working on a project titled 'PassengerLog,' which encompasses authentication functionality and the implementation of the MERN (MongoDB, Express.js, React.js, Node.js) stack. <br>This project aims to provide a comprehensive solution for passenger management and authentication within a web application environment.
+I am Srijal Gupta—an individual fueled by passion and driven by responsibility when it comes to web development. I embrace challenges as opportunities for grow.
 
 
 ## 🌐 Socials:
