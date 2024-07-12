@@ -2,9 +2,6 @@
 
 Welcome to Srijal Gupta's project portfolio. This repository showcases various projects developed by Srijal, a B.Tech student in Electronics and Communication Engineering at Madan Mohan Malaviya University of Technology, Gorakhpur.
 
-## Table of Contents
-
-
 ## Introduction
 
 I am Srijal Gupta, a passionate developer with experience in web development and generative AI models. This repository contains my key projects that highlight my skills in front-end and back-end development, particularly using the MERN stack. 
