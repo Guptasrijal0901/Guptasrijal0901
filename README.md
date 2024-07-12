@@ -4,18 +4,6 @@ Welcome to Srijal Gupta's project portfolio. This repository showcases various p
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Projects](#projects)
-  - [Resume Builder](#resume-builder)
-  - [Anonymous Message Project](#anonymous-message-project)
-  - [Authentication App](#authentication-app)
-  - [MMMUT Complainant Station](#mmmut-complainant-station)
-  - [Sudoku Solving](#sudoku-solving)
-- [Skills](#skills)
-- [Experience](#experience)
-- [Achievements](#achievements)
-- [Certifications](#certifications)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -52,24 +40,6 @@ I am Srijal Gupta, a passionate developer with experience in web development and
 - **Data Structures & Algorithms**
 - **Prompt Development for Generative AI Models**
 - **Other Skills**: Communication, Inclusivity, and Diversity
-
-## Experience
-
-**Intern Trainee at Signal and System Centre, Northeastern Railway, Gorakhpur (June 2023)**
-
-- Analyzed and tested axle counter systems for enhanced train detection.
-- Collaborated with senior engineers to troubleshoot and resolve signal failures.
-- Prepared technical reports and documentation.
-
-## Achievements
-
-- Secured 3rd Position in Robokirti '22 - Annual Technical Fest, MMMUT (2022)
-- Among the top 30 best performers in the Web Development Competition by CSI TCET (2022)
-- Selected as a Top 20 Team for Hackathon '23, MMMUT (2023)
-
-## Certifications
-
-- **Data Structures & Algorithms** - Apna College [Link](https://example.com)
 
 ## Contact
 
