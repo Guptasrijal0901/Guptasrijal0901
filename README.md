@@ -1,9 +1,5 @@
 # 💫 About Me:
-Srijal Gupta </br>
-B.Tech in Electronics and Communication Engineering<br/>
-Madan Mohan Malaviya University of Technology (MMMUT)<br/>
-
-I am a highly passionate B.Tech student with hands-on experience in the full stack of web development with core skill sets in the MERN stack. Based on resume building, authentication systems, and CRUD operations, I have done several projects as proof that I could create and deploy responsive and efficient applications. Along with my development skills, I am currently enhancing my knowledge on data structures and algorithms using Java. I always had a competitive spirit to top the hacks and technical fests, which gives me the opportunity to flaunt my talents in the most dynamic problem-solving environments.
+My name is Srijal Gupta and I am a final year student of B.Tech in Electronics & Communication from MMMUT, Gorakhpur. I have programming knowledge of Java and JavaScript, with experience in full-stack web development using the MERN stack. I consider myself to be responsible, disciplined, and punctual, and I can learn a lot of things quickly and relate them to concepts that are already known to me. In general, I am very consistent with the details and quality that I put in my work.
 
 
 ## 🌐 Socials:
