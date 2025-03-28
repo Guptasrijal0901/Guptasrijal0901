@@ -2,6 +2,7 @@
 My name is Srijal Gupta and I am a final year student of B.Tech in Electronics & Communication from MMMUT, Gorakhpur. I have programming knowledge of Java and JavaScript, with experience in full-stack web development using the MERN stack. I consider myself to be responsible, disciplined, and punctual, and I can learn a lot of things quickly and relate them to concepts that are already known to me. In general, I am very consistent with the details and quality that I put in my work.
 
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/srijal-gupta-93840b292) 
 
 # 💻 Tech Stack:
