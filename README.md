@@ -3,7 +3,6 @@ My name is Srijal Gupta and I am a final year student of B.Tech in Electronics &
 
 ## 🌐 Socials:
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/srijal-gupta-93840b292) 
 
 # 💻 Tech Stack:
